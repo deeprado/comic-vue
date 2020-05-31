@@ -1,0 +1,61 @@
+{
+  "state": "200",
+  "message": "success",
+  "data": {
+    "items": [
+      {
+        "title": "钱包",
+        "icon": "../../assets/images/me_wallet.png"
+      },
+      {
+        "title": "消费充值记录",
+        "icon": "../../assets/images/me_record.png"
+      },
+
+      {
+        "title": "购买的书",
+        "icon": "../../assets/images/me_buy.png"
+      },
+      {
+        "title": "我的会员",
+        "icon": "../../assets/images/me_vip.png"
+      },
+      {
+        "title": "绑兑换码",
+        "icon": "../../assets/images/me_coupon.png"
+      },
+      {
+        "title": "我的收藏",
+        "icon": "../../assets/images/me_favorite.png"
+      },
+      {
+        "title": "喜欢",
+        "icon": "../../assets/images/me_action.png"
+      },
+      {
+        "title": "主题",
+        "icon": "../../assets/images/me_theme.png"
+      },
+      {
+        "title": "团购交易记录",
+        "icon": "../../assets/images/me_record.png"
+      },
+      {
+        "title": "时间",
+        "icon": "../../assets/images/me_date.png"
+      },
+      {
+        "title": "评论",
+        "icon": "../../assets/images/me_comment.png"
+      },
+      {
+        "title": "设置",
+        "icon": "../../assets/images/me_setting.png"
+      },
+      {
+        "title": "反馈",
+        "icon": "../../assets/images/me_feedback.png"
+      }
+    ]
+  }
+}
